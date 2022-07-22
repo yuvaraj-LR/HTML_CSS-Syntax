@@ -1,0 +1,33 @@
+body {
+  background-color: #cce6f4;
+  width: 80%;
+  margin: auto;
+}
+
+#title {
+  text-decoration: underline navy;
+  text-align: center;
+  text-transform: uppercase;
+}
+#title-1 {
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: underline navy;
+}
+
+table {
+  border: thick solid rgb(75, 79, 160);
+  width: 100%;
+  padding: 10px;
+  border-spacing: 5px;
+}
+
+td,
+th {
+  border: thick solid navy;
+  padding: 10px;
+}
+
+.free {
+  background-color: #a831bd;
+}

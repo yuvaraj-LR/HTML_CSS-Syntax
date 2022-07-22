@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comforter&family=Concert+One&display=swap");
+
+* {
+  font-family: "Dancing Script", cursive;
+  background: #d6a5a3ba;
+}
+#unordered {
+  list-style-type: square;
+}
+#main {
+  margin: 50px;
+  text-align: center;
+  font-size: 4rem;
+  color: #fee1c7;
+  background: #4c1e4f;
+  padding: 20px;
+  border-style: solid;
+  border-color: darkturquoise;
+  border-width: 10px;
+}
+
+#first {
+  width: 18em;
+  color: rgb(252, 177, 170);
+  background: rgb(139, 32, 0);
+}
+
+#second {
+  width: 18em;
+  color: rgb(197, 255, 194);
+  background: rgb(139, 32, 0);
+}
+
+#third {
+  width: 18em;
+  color: rgb(169, 158, 255);
+  background: rgb(139, 32, 0);
+}
+
+p {
+  text-indent: 2rem;
+  font-family: "Bebas Neue", cursive;
+  font-family: "Comforter", cursive;
+  font-family: "Concert One", cursive;
+  font-size: 22px;
+  color: rgb(71, 91, 9);
+  word-spacing: 10px;
+  letter-spacing: 2px;
+}

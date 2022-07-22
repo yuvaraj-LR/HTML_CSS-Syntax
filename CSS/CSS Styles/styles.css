@@ -1,0 +1,118 @@
+/*
+->Declaring Styles to CSS.
+h1 {
+  color: chartreuse;
+  background: black;
+}
+h2 {
+  color: burlywood;
+  background: black;
+}
+
+p {
+  color: darkseagreen;
+  background: black;
+} */
+
+/* 
+->Declaring Styles to CSS by id.
+#eg-1 {
+  color: chartreuse;
+  background: black;
+}
+#eg-2 {
+  color: burlywood;
+  background: black;
+} */
+
+/*
+->Using CSS by both Class and id.
+.red {
+  color: red;
+  background: honeydew;
+}
+
+.green {
+  color: green;
+  background: honeydew;
+}
+
+#red-1 {
+  background: lightskyblue;
+}
+
+.lower {
+  text-transform: lowercase;
+} */
+
+/* 
+-> Div and Span Tag.
+.red {
+  color: red;
+  background: honeydew;
+}
+
+.green {
+  color: green;
+  background: honeydew;
+}
+
+span {
+  color: blue;
+  font-size: 42px;
+} */
+
+/* #first {
+  color: rgb(123, 234, 55);
+  background: rgb(154, 22, 45);
+}
+#second {
+  color: rgb(253, 99, 255);
+  background: darkcyan;
+}
+body {
+  background: rgba(50, 97, 146, 0.246);
+} */
+
+/* h3 {
+  color: rgb(71, 228, 50);
+  font-size: 52px;
+  background: brown;
+  width: 485px;
+  height: 200px;
+} */
+
+/* .outer {
+  background: black;
+  width: 500px;
+  height: 500px;
+}
+
+.inner {
+  background: lime;
+  width: 70%;
+  height: 70%;
+} */
+
+/* .header {
+  height: 80vh;
+  width: 100vw;
+  background: blueviolet;
+}
+.banner {
+  height: 80vh;
+  width: 50vw;
+  background: darksalmon;
+} */
+
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: left;
+  text-indent: 5em;
+}
+h1 {
+  font-family: "Comforter", cursive;
+}
+.one {
+  text-align: center;
+}
